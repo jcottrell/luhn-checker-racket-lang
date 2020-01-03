@@ -10,10 +10,10 @@ Simple app to explore apps in Racket.
 1. Click Create
 
 ## Notes
-Andres Ramos - video: TheRacketChannel#3 - Making GUIś  
-Racket - 1.11 Creating Executables: https://docs.racket-lang.org/drracket/create-exe.html
-BrandCrowd for free icon design  
-Image2Icon - mac app store image conversion  
+Andres Ramos - video: [TheRacketChannel#3 - Making GUIś](https://www.youtube.com/watch?v=yo6wVXS6dkU)  
+Racket - [1.11 Creating Executables](https://docs.racket-lang.org/drracket/create-exe.html)  
+[BrandCrowd for free icon design](https://www.brandcrowd.com/maker/tag/simple) - Scam? Unnecessary?  
+[Image2Icon](http://www.img2icnsapp.com/) - mac app for image to ".icns" file creation  
 
 ## TODOs
 + Add testing file to test internals of luhn-guts.rkt
