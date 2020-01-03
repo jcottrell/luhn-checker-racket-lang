@@ -12,6 +12,7 @@ Simple app to explore apps in Racket.
 ## Notes
 Andres Ramos - video: [TheRacketChannel#3 - Making GUIś](https://www.youtube.com/watch?v=yo6wVXS6dkU)  
 Racket - [1.11 Creating Executables](https://docs.racket-lang.org/drracket/create-exe.html)  
+[Racket GUI](https://docs.racket-lang.org/gui/index.html)  
 [BrandCrowd for free icon design](https://www.brandcrowd.com/maker/tag/simple) - Scam? Unnecessary?  
 [Image2Icon](http://www.img2icnsapp.com/) - mac app for image to ".icns" file creation  
 
