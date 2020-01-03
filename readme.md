@@ -18,3 +18,7 @@ Racket - [1.11 Creating Executables](https://docs.racket-lang.org/drracket/creat
 ## TODOs
 + Add testing file to test internals of luhn-guts.rkt
 + Improve layout and aesthetics, especially result placement, button placement, and result style, font, background
++ Add instructions and possibly examples to app
+
+## Using the app
+Enter a credit card number and click Validate or hit Enter and the app will tell you whether or not the number is valid according to the Luhn algorithm.
